@@ -50,31 +50,31 @@
 
 ---
 
-## Week 5: Exploratory Data Analysis (EDA) and Introduction to Spatial Data
+## Week 5: Exploratory Data Analysis (EDA)
 * **Introduction to EDA**
   * Understanding distributions
-  * Data Visualization with Python
-* **Introduction to spatial data in agriculture**
-  * Importance and applications
-* **Practical:** Conduct EDA on an agricultural dataset. Discuss applications of spatial data in agriculture.
+  * Data Visualization with Python: bar charts, histograms, box plots, scatter plots
+  * Descriptive statistics and correlations
+* **Advanced EDA Techniques**
+  * Pair plots, heatmaps, and distribution plots
+  * Trend analysis
+  * Using Python libraries: Seaborn, Matplotlib, and Plotly
+* **Practical:** Conduct EDA on an agricultural dataset using various visualization techniques.
 
 ---
 
-## Week 6: Mapping Spatial Data
+## Week 6: Working with Spatial Data
 * **Understanding Geospatial data**
   * Points, lines, polygons
 * **Python libraries for spatial data**
   * Introduction to Geopandas, Matplotlib, Folium etc.
 * **Visualizing spatial data**
   * Creating static and interactive maps
-* **Practical:** Analyze and visualize an agricultural spatial dataset
+* **Practical:** Analyze and visualize an agricultural spatial dataset.
 
 ---
 
-## Week 7: Introduction to Agricultural Policy Analysis and Time-Series Analysis in Agriculture
-* **Understanding Agricultural Policies**
-  * Importance and role of policies in agriculture
-  * Types of agricultural policies
+## Week 7: Time-Series Analysis in Agriculture
 * **Introduction to Time-Series Analysis**
   * Basic components of a time series
   * Decomposition of a time series
@@ -89,24 +89,30 @@
   * Multiple Linear Regression
   * Interpretation of Regression Results
 * **Introduction to Merging in Git (Theoretical)**
-  * Understanding concept of merging
+  * Understanding the concept of merging
 * **Practical:** Conduct Regression analysis on an agricultural policy dataset.
 
 ---
 
-## Week 9: Policy Analysis: Impact Analysis
-* **Understanding Impact Analysis**
-  * Theoretical concepts and methods
-  * Use of Python for Impact Analysis
-* **Practical:** Conduct an impact analysis on a policy case study. Interpret the results.
+## Week 9: Index Theory and Application in Python
+* **Understanding Index Theory**
+  * Basics and Importance of Index Theory
+  * Constructing and analyzing indices
+* **Application in Python**
+  * Python tools and libraries for index computation
+  * Case studies and practical uses in policy analysis
+* **Practical:** Construct and analyze various indices using Python on agricultural datasets.
 
 ---
 
-## Week 10: Policy Analysis: Cost-Benefit Analysis
+## Week 10: Policy Analysis: Impact and Cost-Benefit Analysis
+* **Understanding Impact Analysis**
+  * Theoretical concepts and methods
+  * Use of Python for Impact Analysis
 * **Understanding Cost-Benefit Analysis**
   * Discounting Future Benefits and Costs
   * Implementing Cost-Benefit Analysis in Python
-* **Practical:** Conduct a cost-benefit analysis on a policy case study. Interpret the results.
+* **Practical:** Conduct an impact analysis and cost-benefit analysis on a policy case study. Interpret the results.
 
 ---
 
@@ -128,5 +134,3 @@
   * Recap of the course, discussions on learned topics, and their practical application
   * Feedback and evaluation
 * **Practical:** Prepare, finalize and present the project. Participate in course wrap-up discussion.
-
----
