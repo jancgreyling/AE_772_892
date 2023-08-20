@@ -22,7 +22,7 @@
 
 ---
 
-## Week 2: Git Basics, Introduction to Pandas, Python Functions
+## Week 2: Git Basics and Introduction to Pandas
 
 * **Introduction to Git and Basic Commands on Google Colab**
   * Importance and Use Cases of Git
@@ -35,9 +35,6 @@
   * Data manipulation: filtering, sorting, and grouping
   * Reading and writing data using Pandas
 
-* **Python Functions**
-  * Creating and Using Functions
-  
 * **Practical:** 
   * Solve problems using Python functions and the Pandas library on Google Colab.
   * Run Git commands on Google Colab.
@@ -49,26 +46,36 @@
 
 * **Introduction to EDA**
   * Understanding distributions
+  * Using Python libraries: Seaborn, Matplotlib, and Plotly
   * Data Visualization with Python: bar charts, histograms, box plots, scatter plots
   * Descriptive statistics and correlations
+
 * **Advanced EDA Techniques**
   * Pair plots, heatmaps, and distribution plots
   * Trend analysis
-  * Using Python libraries: Seaborn, Matplotlib, and Plotly
+
 * **Practical:** Conduct EDA on an agricultural dataset using various visualization techniques.
 
 ---
 
-## Week 3: Data Cleaning, Dictionaries and Collaboration
+## Week 3: Data Cleaning, Functions, Dictionaries, List comprehension and Collaboration
+
+* **Introduction to Functions**
+  * Basics of Functions
+  * User-defined Functions
+  * Lambda Functions
+  * Map, Filter, and Reduce Functions
+
+* **Introduction to Dictionaries**
+  * Basics of Dictionaries
+  * Creating and Manipulating Dictionaries
+  * Dictionary Comprehension
 
 * **Data Cleaning, Missing Value and Outlier Treatment**
   * Cleaning and preprocessing the data
   
 * **Collaboration with GitHub**
   * Forks, Pull Requests, and Issues
-  
-* **Introduction to EDA**
-  * Understanding distributions and the importance of exploratory data analysis
   
 * **Practical:** 
   * Clean an agricultural dataset using Python on Google Colab.
