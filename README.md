@@ -8,36 +8,59 @@
 * **Course Overview**
   * Expectations and learning outcomes
   * Introduction to the course structure
-* **Introduction to Python and Python Basics**
-  * History and Importance in Data Analysis
-  * Python Syntax, Data Structures, and Conditional Statements/Loops
+
 * **Introduction to Google Colab**
   * What is Google Colab and why use it
   * Creating, saving, and sharing notebooks
   * Writing and executing Python code
+
+* **Introduction to Python and Python Basics**
+  * History and Importance in Data Analysis
+  * Python Syntax, Data Structures, and Conditional Statements/Loops
+
 * **Practical:** Write a simple Python program on Google Colab.
 
 ---
 
-## Week 2: Python Functions, Libraries, and Introduction to Git
+## Week 2: Git Basics, Introduction to Pandas & Python Functions
+
+* **Introduction to Git and Basic Commands on Google Colab**
+  * Importance and Use Cases of Git
+  * Cloning the course repository on local machines
+  * Running git commands on Google Colab using "!"
+  * Adding, Committing, and Pushing changes
+
+* **Introduction to Pandas**
+  * Basics of Pandas: Series and DataFrames
+  * Data manipulation: filtering, sorting, and grouping
+  * Reading and writing data using Pandas
+
+
 * **Python Functions and Libraries**
   * Creating and Using Functions
-  * Introduction to NumPy and Pandas Libraries
-* **Introduction to Git**
-  * Importance and Use Cases
-  * Cloning the course repository on local machines
-* **Practical:** Solve problems using Python basics and data structures on Google Colab. Clone course repository.
+  
+* **Practical:** 
+  * Solve problems using Python functions and the Pandas library on Google Colab.
+  * Run Git commands on Google Colab.
+  * Analyze and manipulate an agricultural dataset using Pandas.
 
 ---
 
-## Week 3: Basic Git Commands in Google Colab and Understanding Data
-* **Basic Git Commands on Google Colab**
-  * Running git commands on Google Colab using "!"
-  * Adding, Committing, and Pushing changes
-* **Understanding Data**
-  * Importance of data in policy analysis
-  * Understanding the structure of data
-* **Practical:** Run Git commands on Google Colab. Analyze a data structure of an agricultural dataset.
+## Week 3: Data Cleaning, Collaboration with GitHub, and Introduction to EDA
+
+* **Data Cleaning, Missing Value and Outlier Treatment**
+  * Cleaning and preprocessing the data
+  
+* **Collaboration with GitHub**
+  * Forks, Pull Requests, and Issues
+  
+* **Introduction to EDA**
+  * Understanding distributions and the importance of exploratory data analysis
+  
+* **Practical:** 
+  * Clean an agricultural dataset using Python on Google Colab.
+  * Fork the course repository and make a pull request.
+  * Conduct basic EDA on an agricultural dataset.
 
 ---
 
