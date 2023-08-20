@@ -22,7 +22,7 @@
 
 ---
 
-## Week 2: Git Basics, Introduction to Pandas, Dictionaries & Python Functions
+## Week 2: Git Basics, Introduction to Pandas, Python Functions
 
 * **Introduction to Git and Basic Commands on Google Colab**
   * Importance and Use Cases of Git
@@ -35,7 +35,7 @@
   * Data manipulation: filtering, sorting, and grouping
   * Reading and writing data using Pandas
 
-* **Python Functions and Libraries**
+* **Python Functions**
   * Creating and Using Functions
   
 * **Practical:** 
@@ -45,7 +45,21 @@
 
 ---
 
-## Week 3: Data Cleaning, Collaboration with GitHub, and Introduction to EDA
+## Week 3: Exploratory Data Analysis (EDA)
+
+* **Introduction to EDA**
+  * Understanding distributions
+  * Data Visualization with Python: bar charts, histograms, box plots, scatter plots
+  * Descriptive statistics and correlations
+* **Advanced EDA Techniques**
+  * Pair plots, heatmaps, and distribution plots
+  * Trend analysis
+  * Using Python libraries: Seaborn, Matplotlib, and Plotly
+* **Practical:** Conduct EDA on an agricultural dataset using various visualization techniques.
+
+---
+
+## Week 3: Data Cleaning, Dictionaries and Collaboration
 
 * **Data Cleaning, Missing Value and Outlier Treatment**
   * Cleaning and preprocessing the data
@@ -61,52 +75,35 @@
   * Fork the course repository and make a pull request.
   * Conduct basic EDA on an agricultural dataset.
 
----
-
-## Week 4: Data Cleaning and Collaboration with GitHub
-
-* **Data Cleaning, Missing Value and Outlier Treatment**
-  * Cleaning and preprocessing the data
-* **Collaboration with GitHub**
-  * Forks, Pull Requests, and Issues
-* **Practical:** Clean an agricultural dataset using Python on Google Colab. Fork the course repository and make a pull request.
+Assignment: Conduct EDA on an agricultural dataset in groups of two using various visualization techniques.
 
 ---
 
-## Week 5: Exploratory Data Analysis (EDA)
-* **Introduction to EDA**
-  * Understanding distributions
-  * Data Visualization with Python: bar charts, histograms, box plots, scatter plots
-  * Descriptive statistics and correlations
-* **Advanced EDA Techniques**
-  * Pair plots, heatmaps, and distribution plots
-  * Trend analysis
-  * Using Python libraries: Seaborn, Matplotlib, and Plotly
-* **Practical:** Conduct EDA on an agricultural dataset using various visualization techniques.
+## Week 4: Merging and joining data
 
 ---
 
-## Week 6: Working with Spatial Data
+## Week 5: Working with Spatial Data Part I: Basics
 * **Understanding Geospatial data**
   * Points, lines, polygons
 * **Python libraries for spatial data**
   * Introduction to Geopandas, Matplotlib, Folium etc.
 * **Visualizing spatial data**
-  * Creating static and interactive maps
+  * Creating static
 * **Practical:** Analyze and visualize an agricultural spatial dataset.
-
 ---
 
-## Week 7: Time-Series Analysis in Agriculture
-* **Introduction to Time-Series Analysis**
-  * Basic components of a time series
-  * Decomposition of a time series
-  * Time series forecasting models
-* **Practical:** Identify a real-world agricultural policy and discuss its components and impacts. Analyze an agricultural time series dataset.
-
+## Week 6: Working with Spatial Data Part II: Intermediate
+* **Understanding Geospatial data**
+  * Points, lines, polygons
+* **Python libraries for spatial data**
+  * Introduction to Geopandas, Matplotlib, Folium etc.
+* **Visualizing spatial data**
+  * Creating interactive maps
+* **Practical:** Analyze and visualize an agricultural spatial dataset.
 ---
 
-## Week 8: Policy Analysis: Regression Analysis and Basic Git Merging Theory
+## Week 7: Policy Analysis: Regression Analysis and Basic Git Merging Theory
 * **Introduction to Regression Analysis**
   * Simple Linear Regression
   * Multiple Linear Regression
@@ -114,6 +111,15 @@
 * **Introduction to Merging in Git (Theoretical)**
   * Understanding the concept of merging
 * **Practical:** Conduct Regression analysis on an agricultural policy dataset.
+
+---
+
+## Week 8: Time-Series Analysis in Agriculture
+* **Introduction to Time-Series Analysis**
+  * Basic components of a time series
+  * Decomposition of a time series
+  * Time series forecasting models
+* **Practical:** Identify a real-world agricultural policy and discuss its components and impacts. Analyze an agricultural time series dataset.
 
 ---
 
