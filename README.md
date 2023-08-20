@@ -22,7 +22,7 @@
 
 ---
 
-## Week 2: Git Basics, Introduction to Pandas & Python Functions
+## Week 2: Git Basics, Introduction to Pandas, Dictionaries & Python Functions
 
 * **Introduction to Git and Basic Commands on Google Colab**
   * Importance and Use Cases of Git
@@ -34,7 +34,6 @@
   * Basics of Pandas: Series and DataFrames
   * Data manipulation: filtering, sorting, and grouping
   * Reading and writing data using Pandas
-
 
 * **Python Functions and Libraries**
   * Creating and Using Functions
@@ -65,6 +64,7 @@
 ---
 
 ## Week 4: Data Cleaning and Collaboration with GitHub
+
 * **Data Cleaning, Missing Value and Outlier Treatment**
   * Cleaning and preprocessing the data
 * **Collaboration with GitHub**
