@@ -50,9 +50,10 @@
   * Data Visualization with Python: bar charts, histograms, box plots, scatter plots
   * Descriptive statistics and correlations
 
-* **Advanced EDA Techniques**
-  * Pair plots, heatmaps, and distribution plots
-  * Trend analysis
+* **Statistical Summaries in EDA**
+  * Descriptive Statistics
+  * Correlation and Association
+  * Detecting and Handling Outliers
 
 * **Practical:** Conduct EDA on an agricultural dataset using various visualization techniques.
 
