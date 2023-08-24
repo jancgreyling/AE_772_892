@@ -73,6 +73,8 @@
 
 * **Data Cleaning, Missing Value and Outlier Treatment**
   * Cleaning and preprocessing the data
+    
+* **Merging and joining data**
   
 * **Collaboration with GitHub**
   * Forks, Pull Requests, and Issues
