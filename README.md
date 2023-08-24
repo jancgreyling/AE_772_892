@@ -45,13 +45,13 @@
 ## Week 3: Exploratory Data Analysis (EDA)
 
 * **Introduction to EDA**
-  *  Definition and Importance of EDA
-  *  Types of Data in Agricultural Economics
+  * Definition and Importance of EDA
+  * Types of Data in Agricultural Economics
  
-*  **Data Visualization in EDA**
-  *  Python Libraries for Visualization
-  *  Visualization Techniques for Agricultural Economics Data
-  *  Advanced Visualization Techniques
+* **Data Visualization in EDA**
+  * Python Libraries for Visualization
+  * Visualization Techniques for Agricultural Economics Data
+  * Advanced Visualization Techniques
 
 * **Statistical Summaries in EDA**
   * Descriptive Statistics
