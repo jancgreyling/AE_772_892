@@ -45,10 +45,13 @@
 ## Week 3: Exploratory Data Analysis (EDA)
 
 * **Introduction to EDA**
-  * Understanding distributions
-  * Using Python libraries: Seaborn, Matplotlib, and Plotly
-  * Data Visualization with Python: bar charts, histograms, box plots, scatter plots
-  * Descriptive statistics and correlations
+  *  Definition and Importance of EDA
+  *  Types of Data in Agricultural Economics
+ 
+*  **Data Visualization in EDA**
+  *  Python Libraries for Visualization
+  *  Visualization Techniques for Agricultural Economics Data
+  *  Advanced Visualization Techniques
 
 * **Statistical Summaries in EDA**
   * Descriptive Statistics
