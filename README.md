@@ -58,7 +58,7 @@
 
 ---
 
-## Week 3: Data Cleaning, Functions, Dictionaries, List comprehension and Collaboration
+## Week 4: Data Cleaning, Functions, Dictionaries, List comprehension and Collaboration
 
 * **Introduction to Functions**
   * Basics of Functions
@@ -83,10 +83,6 @@
   * Conduct basic EDA on an agricultural dataset.
 
 Assignment: Conduct EDA on an agricultural dataset in groups of two using various visualization techniques.
-
----
-
-## Week 4: Merging and joining data
 
 ---
 
