@@ -47,7 +47,7 @@
 * **Introduction to EDA**
   * Definition and Importance of EDA
   * Types of Data in Agricultural Economics
- 
+
 * **Data Visualization in EDA**
   * Python Libraries for Visualization
   * Visualization Techniques for Agricultural Economics Data
