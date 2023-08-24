@@ -47,16 +47,16 @@
 * **Introduction to EDA**
   * Definition and Importance of EDA
   * Types of Data in Agricultural Economics
+ 
+* **Statistical Summaries in EDA**
+  * Descriptive Statistics
+  * Correlation and Association
+  * Detecting and Handling Outliers
 
 * **Data Visualization in EDA**
   * Python Libraries for Visualization
   * Visualization Techniques for Agricultural Economics Data
   * Advanced Visualization Techniques
-
-* **Statistical Summaries in EDA**
-  * Descriptive Statistics
-  * Correlation and Association
-  * Detecting and Handling Outliers
 
 * **Practical:** Conduct EDA on an agricultural dataset using various visualization techniques.
 
