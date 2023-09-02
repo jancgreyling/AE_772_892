@@ -62,26 +62,39 @@
 
 ---
 
-## Week 4: Data Cleaning, Functions, Dictionaries, List comprehension and Collaboration
+## Week 4: Logical Statements, Loops, Functions, Dictionaries and List Comprehension
+
+* **Logical statements**
+  * What is a logical statements, and how do they work?
+  * Examples of uses
+
+* **Introduction to Loops**
+  * What is a loop, and how do they work?
+  * Nested loops
 
 * **Introduction to Functions**
   * Basics of Functions
   * User-defined Functions
-  * Lambda Functions
-  * Map, Filter, and Reduce Functions
+  * Defining multiple outputs
+
+* **Introduction to Lambda Functions**
+  * Basics of Lambda functions
+  * How to use them
 
 * **Introduction to Dictionaries**
   * Basics of Dictionaries
   * Creating and Manipulating Dictionaries
   * Dictionary Comprehension
 
-* **Data Cleaning, Missing Value and Outlier Treatment**
-  * Cleaning and preprocessing the data
+* **List comprehension**
+  * Basics of list comprehension
+  * When and how to use it
     
 * **Merging and joining data**
-  
-* **Collaboration with GitHub**
-  * Forks, Pull Requests, and Issues
+  * Basics of joining data
+  * Types of joins
+  * Common mistakes when joining data
+  * How to test if your join correct
   
 * **Practical:** 
   * Clean an agricultural dataset using Python on Google Colab.
@@ -92,7 +105,10 @@ Assignment: Conduct EDA on an agricultural dataset in groups of two using variou
 
 ---
 
-## Week 5: Working with Spatial Data Part I: Basics
+## Week 5: Collaborating with Github and Working with Spatial Data Part I: Basics
+* **Collaboration with GitHub**
+  * GitHub basics recap
+  * Forks, Pull Requests, and Issues
 * **Understanding Geospatial data**
   * Points, lines, polygons
 * **Python libraries for spatial data**
