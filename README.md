@@ -62,11 +62,7 @@
 
 ---
 
-## Week 4: Logical Statements, Loops, Functions, Dictionaries and List Comprehension
-
-* **Logical statements**
-  * What is a logical statements, and how do they work?
-  * Examples of uses
+## Week 4: Loops, Functions, Dictionaries and List Comprehension
 
 * **Introduction to Loops**
   * What is a loop, and how do they work?
@@ -105,20 +101,14 @@ Assignment: Conduct EDA on an agricultural dataset in groups of two using variou
 
 ---
 
-## Week 5: Collaborating with Github and Working with Spatial Data Part I: Basics
+## Week 5: Collaborating with Github
 * **Collaboration with GitHub**
   * GitHub basics recap
   * Forks, Pull Requests, and Issues
-* **Understanding Geospatial data**
-  * Points, lines, polygons
-* **Python libraries for spatial data**
-  * Introduction to Geopandas, Matplotlib, Folium etc.
-* **Visualizing spatial data**
-  * Creating static
-* **Practical:** Analyze and visualize an agricultural spatial dataset.
+
 ---
 
-## Week 6: Working with Spatial Data Part II: Intermediate
+## Week 6: Working with Spatial Data
 * **Understanding Geospatial data**
   * Points, lines, polygons
 * **Python libraries for spatial data**
