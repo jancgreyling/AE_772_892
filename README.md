@@ -28,7 +28,6 @@
   * Importance and Use Cases of Git
   * Cloning the course repository on local machines
   * Running git commands on Google Colab using "!"
-  * Adding, Committing, and Pushing changes
 
 * **Introduction to Pandas**
   * Basics of Pandas: Series and DataFrames
@@ -104,6 +103,8 @@ Assignment: Conduct EDA on an agricultural dataset in groups of two using variou
 ## Week 5: Collaborating with Github
 * **Collaboration with GitHub**
   * GitHub basics recap
+  * Creating a repository
+  * Adding, Committing, and Pushing changes
   * Forks, Pull Requests, and Issues
 
 ---
