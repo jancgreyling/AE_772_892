@@ -12,8 +12,8 @@ Please note the following:
 
 Your classmates and I will assess your assignment based on the following criteria:
 
-Due date of assignment:     17 November 2023
-Due data of marking sheet:  23 November 2023
+Due date of assignment:     17 November 2023 \
+Due date of marking sheet:  23 November 2023
 
 ## Criteria for Evaluation
 
